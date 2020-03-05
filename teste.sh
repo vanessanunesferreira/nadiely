@@ -2,7 +2,9 @@
 #script-for.sh
 #
 # autor: vanessa nunes ferreira
+#Clecya e fabricio aqui.
 echo "iniciando"
+
 
 #!/bin/bash
 cd /home/aluno/imagens-livros
