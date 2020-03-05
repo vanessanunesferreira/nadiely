@@ -2,7 +2,7 @@
 #script-for.sh
 #
 # autor: vanessa nunes ferreira
-
+echo "iniciando"
 
 #!/bin/bash
 cd /home/aluno/imagens-livros
@@ -14,3 +14,4 @@ do
      convert $imagens $img_sem_ext.png
 done
 cd ..
+echo "finalisando"
